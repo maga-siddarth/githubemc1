@@ -1,1 +1,3 @@
-creates test1.txt file
+Hi how are you
+
+file content has been changed to diff form
